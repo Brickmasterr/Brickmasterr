@@ -1,15 +1,22 @@
 <h3 align="center">
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hello, nice to see you
 </h3>
 
+## About me
+
 <p>
-Hello, My name is Brickmaster from <b>Jakarta, Indonesia</b>. And I'm just someone who loves programming and trying to be a full-stack developer. Hobby of developing something like <b>Discord Bot</b>, mainly developing in JS and Lua.
+ I'm Brickmaster from <b>Jakarta, Indonesia</b>. And I'm just someone who loves programming and trying to be a full-stack developer. Hobby of developing something like <b>Discord Bot</b>, mainly developing in JS and Lua.
 </p>
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Brickmasterr/count.svg" />
+</p> -->
 
 <!-- <h4>Things I code with</h4> -->
 ## The things I code with
-<p>
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -26,9 +33,7 @@ Hello, My name is Brickmaster from <b>Jakarta, Indonesia</b>. And I'm just someo
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-## My Bots
-
-* ### Discord
+## My Discord Bots
 
   * #### [Nocturnal](https://discord.com/api/oauth2/authorize?client_id=531091404584124416&permissions=275011431873&scope=bot%20applications.commands "Invite Nocturnal")
     
