@@ -4,7 +4,7 @@
 </h3>
 
 <p>
-Hello, My name is Brickmaster from <b>Bekasi, Indonesia</b>. And I'm just someone who loves programming and trying to be a full-stack developer. Hobby of developing something like <b>Discord Bot</b>, mainly developing in JS and Lua.
+Hello, My name is Brickmaster from <b>Jakarta, Indonesia</b>. And I'm just someone who loves programming and trying to be a full-stack developer. Hobby of developing something like <b>Discord Bot</b>, mainly developing in JS and Lua.
 </p>
 
 <!-- <h4>Things I code with</h4> -->
