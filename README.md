@@ -8,7 +8,7 @@ Hello, My name is Brickmaster from <b>Jakarta, Indonesia</b>. And I'm just someo
 </p>
 
 <!-- <h4>Things I code with</h4> -->
-## Things I code with
+## The things I code with
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
