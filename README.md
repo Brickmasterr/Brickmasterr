@@ -45,6 +45,8 @@
       > 
       > A multipurpose Discord bot including auto-search music.
 
+## Code Activity
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
