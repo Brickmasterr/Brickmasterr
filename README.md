@@ -45,6 +45,8 @@
       > 
       > A multipurpose Discord bot including auto-search music.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- <h4>Where to find me?</h4> -->
 ## Where to find me?
