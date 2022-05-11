@@ -48,6 +48,11 @@
 ## Code Activity
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <h4>Where to find me?</h4> -->
