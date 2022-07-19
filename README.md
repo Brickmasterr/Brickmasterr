@@ -50,8 +50,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua     16 mins         ██████████████████████▒░░   89.32 %
-Other   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
