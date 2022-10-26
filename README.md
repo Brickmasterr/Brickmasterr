@@ -50,9 +50,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Lua          2 hrs 15 mins   █████████████████████████   99.67 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Lua        3 hrs 5 mins    █████████████████████████   100.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
