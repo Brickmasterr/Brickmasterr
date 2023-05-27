@@ -50,7 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Lua          1 hr 42 mins    █████████████▒░░░░░░░░░░░   53.63 %
+EJS          47 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+JavaScript   37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
