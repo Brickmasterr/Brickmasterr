@@ -49,7 +49,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Lua          17 hrs 2 mins   ███████████████████▒░░░░░   77.56 %
 JavaScript   2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
 JSON         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
