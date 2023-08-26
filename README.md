@@ -51,9 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          5 hrs 26 mins   ████████████████████████▓   98.86 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Lua          5 hrs 27 mins   ████████████████████████░   96.31 %
+JavaScript   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
