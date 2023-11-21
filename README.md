@@ -51,9 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua        4 hrs 38 mins   █████████████████████████   99.49 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
