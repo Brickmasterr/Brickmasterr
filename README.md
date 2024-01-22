@@ -51,8 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP     3 mins          ███████████████▒░░░░░░░░░   61.83 %
-Other   2 mins          █████████▓░░░░░░░░░░░░░░░   38.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
