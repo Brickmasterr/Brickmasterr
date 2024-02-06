@@ -51,11 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua        3 hrs 38 mins   ████████████████████████░   95.89 %
-SQL        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-HTML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
