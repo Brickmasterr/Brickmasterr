@@ -51,11 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          29 mins         ██████████▓░░░░░░░░░░░░░░   42.87 %
-Other        27 mins         ██████████░░░░░░░░░░░░░░░   40.09 %
-JavaScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-HTML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-INI          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
