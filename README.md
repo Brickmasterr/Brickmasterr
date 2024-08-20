@@ -51,9 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 48 mins    ███████████████████▓░░░░░   78.21 %
-JavaScript   29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Other        2 hrs 30 mins   █████████████████████▓░░░   86.78 %
+JavaScript   20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
