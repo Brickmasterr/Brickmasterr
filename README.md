@@ -14,6 +14,8 @@ Hi! I'm a full-stack web developer who loves building modern, fast, and secure w
 - 🎧 **Audio Streaming Platform**: Full-stack web app using Lavacord, React, and Express with Google/Local Auth, playlist & favorites system, socket.io communication
 - 📥 **MP3 Hosting Server**: Custom Node.js server for receiving/sending MP3s and serving as audio source for streaming clients
 - 🗓 **Google Calendar Dashboard**: Calculates salary & meal allowance per person based on Google Calendar events and work hours
+- 🎮 **FiveM Server Projects**: Custom scripts, APIs, and admin dashboards for FiveM RP servers; integrates role-based access, job systems, and in-game UI enhancements via NUI
+
 
 ### 🚀 Currently Exploring
 - gRPC for microservice communication
