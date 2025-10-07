@@ -80,7 +80,8 @@ Here are some of my Discord bots with invite links:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         1 min           ███████████████▓░░░░░░░░░   63.09 %
+JavaScript   1 min           █████████▒░░░░░░░░░░░░░░░   36.91 %
 ```
 
 <!--END_SECTION:waka-->
