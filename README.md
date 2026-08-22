@@ -83,7 +83,7 @@ Here are some of my Discord bots with invite links:
 Other                      2 hrs 38 mins         ███████████████████████▓░   94.88 %
 Markdown                   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 JSON                       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 JavaScript                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
