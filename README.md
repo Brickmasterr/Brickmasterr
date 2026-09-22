@@ -80,11 +80,11 @@ Here are some of my Discord bots with invite links:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 6 mins          ██████████▓░░░░░░░░░░░░░░   43.08 %
-JavaScript    2 hrs 44 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Other         1 hr 44 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Markdown      38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-JSON          31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Python        4 hrs 58 mins         █████████▓░░░░░░░░░░░░░░░   39.12 %
+Markdown      2 hrs                 ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+JavaScript    1 hr 43 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Other         1 hr 33 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Text          1 hr 3 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
 ```
 
 <!--END_SECTION:waka-->
