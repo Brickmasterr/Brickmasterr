@@ -24,20 +24,15 @@ Full-stack web developer, mostly backend. I work on real-time communication, med
 
 ## 🛠 Tech Stack
 
-**Languages & Runtime**  
-`JavaScript` `Node.js` `SQL`
-
-**Backend**  
-`Express.js` `REST API` `Socket.IO` `Lavalink` `yt-dlp`
-
-**Frontend**  
-`React.js` `Next.js` `EJS` `Vite` `Tailwind CSS`
-
-**Auth & Security**  
-`JWT` `Passport.js` `Google OAuth` `bcrypt` `cookie-parser`
-
-**Infra & Tools**  
-`Docker` `Nginx` `Multer` `MariaDB` `MySQL` `DigitalOcean` `VPS`  
+| Area | Tools |
+| --- | --- |
+| Languages | JavaScript (ES6+), SQL, Lua, C#, Go, HTML/CSS |
+| Backend | Node.js, Express.js, REST APIs, Lavalink, Passport.js |
+| Data | MySQL, MariaDB, schema design, query optimization |
+| Search | JSON-LD, Small Language Model embeddings, cosine similarity |
+| Auth | JWT, OAuth 2.0, single sign-on, RBAC |
+| Infrastructure | Docker, Nginx, Ubuntu, Git/GitLab, multi-VPS |
+| Frontend | React, Next.js, Tailwind CSS |
 
 ---
 
@@ -64,10 +59,10 @@ Full-stack web developer, mostly backend. I work on real-time communication, med
 
 Here are some of my Discord bots with invite links:
 
-- **Nocturnal** is a free music bot with playlists, filters, autoplay, and slash commands.  
+- **Nocturnal** is a free music bot with playlists, filters, autoplay, and slash commands.
   [Invite Nocturnal](https://discord.com/api/oauth2/authorize?client_id=531091404584124416&permissions=275011431873&scope=bot%20applications.commands)
 
-- **MasterBot**  is a multipurpose bot with auto-search music. 
+- **MasterBot**  is a multipurpose bot with auto-search music.
   [Invite MasterBot](https://discord.com/api/oauth2/authorize?client_id=547036964520591360&permissions=275011431873&scope=bot%20applications.commands)
 
 ---
@@ -89,5 +84,5 @@ No activity tracked
 ## 📫 Let's Connect
 
 - 🌐 [isdwk.xyz](https://isdwk.xyz)
-- 📧 [contact@isdwk.xyz](contact@isdwk.xyz)
+- 📧 [contact@isdwk.xyz](mailto:contact@isdwk.xyz)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-dwiki-hariyanto-186395336)
