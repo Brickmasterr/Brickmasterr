@@ -8,27 +8,27 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a full-stack web developer with a strong focus on backend architecture, real-time communication, and media streaming. My projects often combine audio tech, authentication, and infrastructure tools to solve real-world problems — whether it's for users, teams, or game servers.
+Full-stack web developer, mostly backend. I work on real-time communication, media streaming, and the auth and infrastructure that keep both running. Projects usually mix audio tooling, authentication, and deployment, on the web and on FiveM RP servers.
 
-### 💼 What I Do
-- 🧠 Architect and build full-stack web applications (React + Express + SQL)
-- 🎧 Develop advanced audio players and streaming services using Lavalink & Plyr.js
-- 🔐 Implement secure authentication (JWT, Passport.js, Google OAuth)
-- ⚙️ Design Dockerized, multi-VPS, CDN-like deployments for high availability
-- 📊 Build smart dashboards (e.g., salary + allowance from Google Calendar events)
-- 🎮 Create tools & scripts for **FiveM RP** servers (UI, job systems, APIs, permissions)
+### What I Do
+- Full-stack apps on React, Express, SQL
+- Audio players and streaming services on Lavalink and Plyr.js
+- Auth with JWT, Passport.js, Google OAuth
+- Dockerized deployments across several VPS, with CDN-style file delivery
+- Dashboards that parse Google Calendar events into salary and allowance figures
+- FiveM RP tooling: NUI interfaces, job systems, APIs, permission checks
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages & Runtime**  
-`JavaScript` `Node.js` `SQL` `Shell`
+`JavaScript` `Node.js` `SQL`
 
 **Backend**  
-`Express.js` `REST API` `Socket.IO` `gRPC (exploring)` `Lavalink` `yt-dlp`
+`Express.js` `REST API` `Socket.IO` `Lavalink` `yt-dlp`
 
 **Frontend**  
 `React.js` `Next.js` `EJS` `Vite` `Tailwind CSS`
@@ -41,35 +41,33 @@ I'm a full-stack web developer with a strong focus on backend architecture, real
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-- **🎧 Audio Streaming Platform**  
-  Web-based music player with real-time controls, favorites, playlists, and Google/Local login
+- **Audio Streaming Platform**  
+  Web music player with live controls, favorites, playlists, and Google or local login
 
-- **📥 MP3 Hosting & Delivery**  
-  Node-based backend for uploading, storing, and streaming MP3s to clients via CDN logic
+- **MP3 Hosting & Delivery**  
+  Node backend that takes uploads, stores them, and streams them to clients with CDN-style routing
 
-- **🗓 Google Calendar Dashboard**  
-  Calculates salary and meal allowance per person based on event parsing and rule logic
+- **Google Calendar Dashboard**  
+  Computes salary and meal allowance per person from parsed calendar events and rule logic
 
-- **⬇️ YouTube Downloader Service**  
-  Secure YouTube token-based audio downloader using `yt-dlp`
+- **YouTube Downloader Service**  
+  Token-gated audio downloader built on `yt-dlp`
 
-- **🎮 FiveM RP Projects**  
-  Custom NUI interfaces, job systems, and admin dashboards with access control & APIs
+- **FiveM RP Projects**  
+  Custom NUI, job systems, and admin dashboards with access control and APIs
 
 ---
 
-## 🤖 My Discord Bots
+## My Discord Bots
 
 Here are some of my Discord bots with invite links:
 
-- **Nocturnal**  
-  octurnal Is a Free Music bot that has lots of features including custom playlists, filters and autoplay. Nocturnal also has a slash command.  
+- **Nocturnal** is a free music bot with playlists, filters, autoplay, and slash commands.  
   [Invite Nocturnal](https://discord.com/api/oauth2/authorize?client_id=531091404584124416&permissions=275011431873&scope=bot%20applications.commands)
 
-- **MasterBot**  
-  A multipurpose Discord bot including auto-search music.  
+- **MasterBot**  is a multipurpose bot with auto-search music. 
   [Invite MasterBot](https://discord.com/api/oauth2/authorize?client_id=547036964520591360&permissions=275011431873&scope=bot%20applications.commands)
 
 ---
@@ -90,6 +88,6 @@ No activity tracked
 
 ## 📫 Let's Connect
 
-- 🌐 [isdwk.site](https://isdwk.site)
-- 📧 contact@isdwk.site
-- 💼 [LinkedIn](https://www.linkedin.com/in/isdwk-7b929b33a)
+- 🌐 [isdwk.xyz](https://isdwk.xyz)
+- 📧 [contact@isdwk.xyz](contact@isdwk.xyz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-dwiki-hariyanto-186395336)
